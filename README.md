@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Mojtaba Amani
+- 👀 I’m interested in optimization algorithms, graph algorithms, computational geometry, web development and android applications.
+- 🌱 I’m currently postgraduate student of computer science at Yazd University.
+- 📧 amanimojtaba329@gmail.com
